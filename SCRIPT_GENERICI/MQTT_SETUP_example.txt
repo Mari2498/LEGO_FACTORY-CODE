@@ -1,0 +1,14 @@
+{
+	"IP_BROKER":				"localhost",
+	"Name_dev_controller":		"PC-1",
+
+	"topics": 
+	{
+		"request_topic":		"test/rqst",
+		"reply_topic": 			"test/rply",
+		"direct_topic": 		"test/drct",
+		"info_topic": 			"test/info"
+	},
+
+	"network_devices":			["PC-1","EV3-1"]
+}
