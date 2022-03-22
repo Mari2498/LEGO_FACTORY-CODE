@@ -1,0 +1,9 @@
+{
+	"broker_ip" : "localhost",
+
+	"topics": 
+	{
+		"general_topic": "STD_SYS/general"
+	}
+
+}
