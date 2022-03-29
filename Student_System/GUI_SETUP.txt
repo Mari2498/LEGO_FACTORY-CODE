@@ -1,0 +1,28 @@
+{
+
+    "root":
+    {
+        "title":        "Test GUI",
+        "height":       1080,
+        "width":        1920,
+        "table":
+        {
+            "font_dim":         30,
+            "rows_height":      50,
+            "table_rows":       16,
+            "log_width":        490,
+            "time_width":       430,
+            "pad_x":            70,
+            "pad_y":            70
+        },
+        "buttons":
+        {
+            "font_dim":     60,
+            "height":       3,
+            "width":        12,
+            "pad_x":        70,
+            "pad_y":        70
+        }
+    }
+
+}
